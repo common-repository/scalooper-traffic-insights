@@ -1,0 +1,47 @@
+LICENSE AGREEMENT (EULA)
+End-User License Agreement (hereinafter referred to as “EULA”) for WordPress Plugins.
+Preamble
+MBmedien Group GmbH, Europapark A 4, 47807 Krefeld, Germany (hereinafter referred to as the Licensor), develops plugins (extensions, hereinafter also referred to as components or software) for the WordPress® content management system (hereinafter referred to as WP). These plugins are made available to end users free of charge under software licenses.
+Scope of application
+This EULA relates exclusively to the provision of the aforementioned software under standard licenses by the Licensor to entrepreneurs within the meaning of Section 14 of the German Civil Code (BGB), registered merchants and partnerships, as well as other legal entities (hereinafter referred to as Licensees).
+Subject-matter of the Agreement
+The subject-matter of this Agreement is the granting of a simple, non-exclusive, perpetual right of use for the “Scalooper Traffic Insights” plugin in a website.
+The acquisition of a software license does not grant the Licensee ownership of the software itself. The software shall always remain the intellectual property of the Licensor and is protected by copyright. The Licensee of the software only acquires the right to use the software in accordance with the Agreement. There is no right to the provision of the source code of the software.
+The Licensee is not entitled to transfer rights and obligations arising from this Agreement to third parties without the prior written consent of the Licensor.
+Provision
+A standard license is always linked to a specific plugin and it is acquired automatically, free of charge, whenever the respective plugin is downloaded.
+The software is provided via the platform https://de.wordpress.org/plugins/ or via the platform www.scalooper.de in the form of an installation package (ZIP file/download link) that can be installed via the WP backend.
+By installing (downloading) the software, the Licensee agrees to the provisions of this EULA.
+The Licensor is under no obligation to provide any older versions or - at a later point in time - any more recent versions. The software is only provided in its current version.
+Contracted licensees
+If the Licensee acts as a contractor or subcontractor and the legal responsibility for the operational website lies with the client (owner/operator, usually the legal representative according to the website’s legal notice), the client must be informed about the licensing obligation and the associated framework conditions before the installation of any components requiring a license.
+This shall not affect any potential strict liability of the client in the event of license violations as the client is generally also responsible for the actions of their vicarious agents.
+Updates
+The Licensor shall make a reasonable effort - but is under no obligation - to provide updates for the software.
+Any updates will be provided via the regular WP software update system and can therefore be installed with a click or automatically.
+Insofar as the Licensor provides the Licensee with new versions, updates or upgrades of the software during the term of this Agreement, the rights of use stated above shall apply to them in the same manner.
+Support
+Technical support from the Licensor can be obtained for a fee. The scope of services includes installation, setup/configuration, updating and troubleshooting of issues in connection with the use of the software. If the Licensee wishes to make use of these services, the Licensor and the Licensee must conclude a separate paid maintenance agreement to that effect.
+Support requests can be sent by the Licensee or by service providers commissioned by the licensee via email to support@scalooper.de; the response is usually sent via email. (Real-time support by telephone, screen sharing or similar services are not included within the scope of services associated with the license.)
+Modification
+The software is published under GPL2 and may be modified accordingly.
+Communication
+The Licensor is entitled to notify the Licensee of any updates, new or extended functions and other topics in connection with the software - in particular, security-related topics - via email.
+
+Limitation of liability
+The Licensor is only liable for damage caused intentionally or through gross negligence within the statutory framework.
+The Licensor shall not be liable, regardless of their fault, for defects that exist at the time when the software is made available.
+The Licensor shall also not be liable for damage due to the following or comparable causes:
+•	incorrect installation/configuration or modification of the software by the Licensee or by third parties commissioned by the Licensee;
+•	improper use or use for a purpose other than the intended purpose; and
+•	incorrectly or improperly installed/configured third-party software components.
+Regular claims under the Product Liability Act and liability for loss resulting from death, physical injury and damage to health are not subject to the limitations of liability stated above.
+In all other respects, the Licensor's liability is excluded.
+Insofar as the Licensor's liability for damages is excluded or limited, this shall also apply with regard to the personal liability for damages of the Licensor’s employees, workers, staff, representatives and vicarious agents.
+Third-party rights
+If an alleged infringement of third-party rights is asserted against the Licensee or a customer of the Licensee, the Licensee shall notify the Licensor immediately. In this case, the Licensor shall examine the asserted claims as quickly as possible and clarify the facts of the case, taking into account the interests of the Licensee/the Licensee’s client.
+In this respect, the Licensee and the Licensee’s client are not entitled to acknowledge such third-party claims themselves.
+Miscellaneous
+This Agreement constitutes the entire agreement of the parties with regard to use of the license. The content of this Agreement is subject to change based on experience, new information, changes in process requirements and the availability of resources. Such changes shall go into effect regardless of whether prior notice has been provided to you or not. You can access the applicable current version of this License Agreement at any time by visiting the “EULA” section on the Licensor's website. The Privacy Policy and the General Terms and Conditions of the Licensor (which are also available on the website) are also an integral part of this EULA. The Licensee is solely responsible for regularly checking whether this EULA has been changed.
+Should one or more provisions of this Agreement be or become invalid or unenforceable or should any necessary provisions be missing, the remaining provisions shall remain valid and the parties shall be obliged to replace the invalid or unenforceable provisions without delay and to close any contractual gaps with provisions that come as close as possible to the intended economic result, insofar as this is legally permissible.
+The EULA is governed by the laws of the Federal Republic of Germany. The exclusive place of jurisdiction is Krefeld.
